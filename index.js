@@ -2,7 +2,7 @@ const http = require('http');
 const https = require('https');
 const httpProxy = require('http-proxy');
 
-const TARGET_URL = process.env.TARGET_URL || 'https://pars77.store';
+const TARGET_URL = process.env.TARGET_URL || 'http://162.217.248.46:443';
 
 console.log(`Target: ${TARGET_URL}`);
 
