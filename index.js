@@ -2,7 +2,7 @@ const http = require('http');
 const https = require('https');
 const url = require('url');
 
-const TARGET_URL = 'http://162.217.248.46:443'; 
+const TARGET_URL = 'https://pars77.store'; 
 
 const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(TARGET_URL);
