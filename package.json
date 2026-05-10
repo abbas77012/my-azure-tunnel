@@ -1,4 +1,3 @@
-```json id="w6lgtu"
 {
   "name": "azure-relay",
   "version": "1.0.0",
@@ -10,4 +9,3 @@
     "http-proxy": "^1.18.1"
   }
 }
-```
