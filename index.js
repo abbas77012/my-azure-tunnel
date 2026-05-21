@@ -2,7 +2,7 @@ const http = require('http');
 const https = require('https');
 const httpProxy = require('http-proxy');
 
-const TARGET_URL = process.env.TARGET_URL || 'https://162.217.248.46:443';
+const TARGET_URL = process.env.TARGET_URL || 'https://iran1405.lifestyle';
 const TARGET_SNI = 'bb12-eagsgvcpg2gedggh.uaenorth-01.azurewebsites.net';
 
 console.log(`Target: ${TARGET_URL}`);
